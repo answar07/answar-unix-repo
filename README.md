@@ -1,30 +1,17 @@
-# This is a large heading
+# Answar Twizeyimana
 
-## This is a smaller heading
+### Location
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the beatiful city of Charlotte in the state of North Carolina, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Favorite movies
 
-1. This is
-2. an ordered
-3. list
+1. *Prison break* 
+2. Designated survivor
+3. RAMBO by *Stalone*
 
-Here is `some code` in the middle of a sentence.
+### Career
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+1. I like coding so much
+2. i am a Toastmaster
+3. i like teaching math and science
